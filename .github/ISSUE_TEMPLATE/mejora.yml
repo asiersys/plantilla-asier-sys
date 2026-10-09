@@ -1,0 +1,16 @@
+name: "💡 Proponer una mejora"
+description: Explica una necesidad y el resultado que buscas.
+title: "[Mejora] "
+body:
+  - type: textarea
+    id: necesidad
+    attributes:
+      label: Qué problema quieres resolver
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Qué comportamiento propones
+    validations:
+      required: true

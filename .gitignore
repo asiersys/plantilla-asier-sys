@@ -1,0 +1,24 @@
+# Secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# JavaScript
+node_modules/
+dist/
+coverage/
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+# Datos y resultados locales
+local-data/
+backups/
+*.log
