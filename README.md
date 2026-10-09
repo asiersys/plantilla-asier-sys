@@ -2,9 +2,11 @@
 
 # 🧩 Nombre del proyecto
 
+**¿Vas a empezar un proyecto?** Usa **Use this template → Create a new repository** y sigue la [guía para adaptar la plantilla](docs/USAR-PLANTILLA.md).
+
 > **Explica en una frase qué problema resuelve y para quién.** Sustituye este texto al crear tu proyecto.
 
-<p align="center"><a href="#-vista-previa">Vista previa</a> · <a href="#-inicio-rápido">Instalación</a> · <a href="docs/USO.md">Guía de uso</a> · <a href="docs/ROADMAP.md">Hoja de ruta</a></p>
+<p align="center"><a href="#vista-previa">Vista previa</a> · <a href="#-inicio-rápido">Instalación</a> · <a href="docs/USO.md">Guía de uso</a> · <a href="docs/ROADMAP.md">Hoja de ruta</a></p>
 
 | Estado | Plataforma | Tecnología | Licencia |
 | :--- | :--- | :--- | :--- |
@@ -17,6 +19,8 @@ Describe el resultado que consigue el usuario, sin prometer funciones que aún n
 - **Función principal:** sustituir por una función real.
 - **Segunda función:** sustituir por una función real.
 - **Privacidad:** explicar dónde se procesan y guardan los datos.
+
+<a id="vista-previa"></a>
 
 ## 🖼️ Vista previa
 
