@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/assets/banner.svg" alt="Asier Sys — Plantilla de proyectos" width="100%"></p>
+<p align="center"><img src="docs/assets/asier-sys-original.png" alt="Asier Sys — Plantilla de proyectos" width="100%"></p>
 
 # 🧩 Nombre del proyecto
 
@@ -11,6 +11,17 @@
 | Estado | Plataforma | Tecnología | Licencia |
 | :--- | :--- | :--- | :--- |
 | 🟡 En preparación | Por definir | Por definir | Pendiente de elegir |
+
+## 🧭 Preparar y mantener el proyecto
+
+| Guía | Qué debes completar |
+| --- | --- |
+| [Puesta en marcha](docs/PUESTA-EN-MARCHA.md) | Lista para crear y entregar un proyecto |
+| [Ficha del proyecto](docs/FICHA-PROYECTO.md) | Plataformas, requisitos, internet, costes y datos |
+| [Mantenimiento](docs/MANTENIMIENTO.md) | Actualizar, copiar y restaurar |
+| [Identidad visual](docs/IDENTIDAD-VISUAL.md) | Logotipo original, colores y autoría |
+
+La documentación se comprueba con `python3 scripts/comprobar_documentacion.py` y mediante GitHub Actions. El control revisa destinos locales y anclas Markdown habituales; no valida enlaces externos, la aplicación ni todos los formatos posibles de Markdown.
 
 ## 🎯 Qué hace
 

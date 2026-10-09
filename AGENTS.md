@@ -12,3 +12,7 @@
 - Añade capturas reales de la aplicación, sin información privada, cuando exista una interfaz.
 - No despliegues, envíes mensajes ni realices cambios destructivos sin autorización del usuario.
 - Resume qué cambió, cómo se comprobó y qué queda pendiente.
+
+- Usa el logotipo original docs/assets/asier-sys-original.png sin recrearlo ni modificarlo. Aplica docs/IDENTIDAD-VISUAL.md.
+- Completa docs/FICHA-PROYECTO.md, docs/PUESTA-EN-MARCHA.md y docs/MANTENIMIENTO.md según el proyecto real.
+- Ejecuta python3 scripts/comprobar_documentacion.py si cambias documentación o archivos enlazados. No presentes esta comprobación como prueba de la aplicación.
